@@ -1,0 +1,71 @@
+/* Body styling */
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to bottom, #f9f9f9, #cce0ff);
+  margin: 0;
+  padding: 0;
+}
+
+/* Marquee styling */
+marquee#a {
+  color: #ff4500;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+/* Heading styling */
+h3 {
+  text-align: center;
+  color: #4B0082;
+  text-shadow: 1px 1px 2px #fff;
+  margin-bottom: 20px;
+}
+
+/* Inputs and select styling */
+input, select {
+  width: 260px;
+  padding: 10px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  border: 2px solid #4B0082;
+  outline: none;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+/* Focus effect on inputs */
+input:focus, select:focus {
+  border-color: #ff4500;
+  box-shadow: 0 0 5px #ff4500;
+}
+
+/* Radio buttons and checkboxes spacing */
+input[type="radio"], input[type="checkbox"] {
+  width: auto;
+  margin-right: 5px;
+}
+
+/* Submit button styling */
+button {
+  width: 270px;
+  padding: 12px;
+  background: linear-gradient(to right, #4B0082, #8A2BE2);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Button hover effect */
+button:hover {
+  background: linear-gradient(to right, #ff4500, #ff6347);
+  transform: scale(1.05);
+}
+
+/* Center spacing */
+center {
+  margin-top: 30px;
+}

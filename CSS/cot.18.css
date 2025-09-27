@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+p{
+background-color: brown;
+}
+h2{
+    background-color: burlywood;
+    text-align: center;
+}
+/* comment line  */
+button{
+    size: 0vw;
+    background-color: blue;
+    margin-left:400px;
+    color: yellow;
+    border-radius: 10%;
+    cursor: pointer;
+}

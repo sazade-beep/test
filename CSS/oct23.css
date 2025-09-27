@@ -1,0 +1,27 @@
+*{
+    background-color:white;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color:black;
+    transition: 3s;
+}
+/* transition meaning  */
+div:hover{
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: antiquewhite;
+}
+
+    #one{
+        color: red;
+        
+    }
+    #two{
+        color: blue;
+    }
+   #three{
+        color:green
+    }
+

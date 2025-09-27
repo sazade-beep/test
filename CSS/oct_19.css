@@ -1,0 +1,30 @@
+div{
+    background-color: yellow;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+span{
+    background-color: blue;
+    margin-left: 30px;
+}
+.one{
+    background-color: red;
+    text-align: left;
+    transition: 4s;   
+}
+.one:hover{
+    background-color: cornflowerblue;
+   cursor: pointer;
+
+
+}
+#spa{
+    background-color: black;
+    color: yellow;
+}
+#spa.hover{
+    background-color: yellow;
+    color: black;
+}

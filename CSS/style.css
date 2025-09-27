@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+    font-style: italic;
+}
+    h4{
+        background-color: black;
+        text-align: center;
+        color: yellow;
+        font-size: 50px;
+    }

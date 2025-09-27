@@ -1,0 +1,17 @@
+ *{
+    background-color: blue;
+ }
+ 
+#gd{
+    margin-top: 90px;
+    border-radius: 40%; 
+    width: 20%;
+    height: 40px;
+
+}
+#gd:hover{
+    background-color: red;
+    cursor: pointer;
+    transition: 2s;
+    
+}
